@@ -5,7 +5,7 @@ I'm a Computer Science Enthusiast based in Ghana. Welcome to my GitHub profile!
 ## About Me
 
 - 👀 I’m interested in software Engineering || Networking || IOT ||
-- 🌱 I’m currently learning [What You're Learning].
+- 🌱 I’m currently reading BSc. Computer Science 
 - 💞️ I’m looking to collaborate on any software related project.
 - 📫 How to reach me: 📞🟢+233246104295.
 
